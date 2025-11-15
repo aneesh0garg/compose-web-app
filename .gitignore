@@ -1,0 +1,6 @@
+.gradle/
+.idea/
+build/
+
+# Check if this needs to be ignored
+kotlin-js-store/
